@@ -1,0 +1,17 @@
+fieldset{
+    background-color: rgb(39, 38, 38);
+    color: white;
+    gap: 20px;
+    width: 400px;
+    height: 400px;
+}
+legend{
+    background-color: green;
+}
+body{
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
